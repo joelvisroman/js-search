@@ -182,3 +182,4 @@ search.indexStrategy = new JsSearch.AllSubstringsIndexStrategy();
 // this index strategy is built for exact word matches.
 search.indexStrategy = new JsSearch.ExactWordIndexStrategy();
 ```
+[![Run on Repl.it](https://repl.it/badge/github/joelvisroman/js-search)](https://repl.it/github/joelvisroman/js-search)
